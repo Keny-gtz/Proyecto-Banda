@@ -1,0 +1,13 @@
+hola este es el alcance 
+
+1.Alcance 
+La aplicación mostrara el  horóscopo  del día. de acuerdo  a la fecha de nacimiento ingresada al configurar la aplicación.
+
+2.objetivos 
+Mostrara  el horóscopo de su signo.
+Mostrara el horóscopo de su ascendente
+
+3.consideraciones
+   
+       El usuario deberá  de visualizar las diferentes características de los usuarios
+ 
